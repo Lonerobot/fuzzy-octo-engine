@@ -1,2 +1,2 @@
 # fuzzy-octo-engine
-sphinx auto bild test
+sphinx auto build test
